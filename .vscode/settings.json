@@ -1,0 +1,7 @@
+{
+    "workbench.editor.enablePreview": false,
+    "debug.javascript.defaultRuntimeExecutable": {
+
+      "pwa-node": "node"
+    }
+}
